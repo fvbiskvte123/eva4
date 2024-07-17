@@ -1,0 +1,2 @@
+usuarios= admin ,javier
+contraseña = admin ,javier
